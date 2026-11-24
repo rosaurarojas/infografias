@@ -1,0 +1,199 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="mnpIfbTY5XYMlRnFZ-fk">
+    <mxGraphModel dx="2764" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bg_main" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#060B19;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="1100" width="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="title_main" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 38px;&quot; color=&quot;#FFFFFF&quot;&gt;Materiales del Futuro:&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 34px;&quot; color=&quot;#38BDF8&quot;&gt;Haciendo que la Exploración Espacial no Pese&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="1060" x="260" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="icon_rocket" parent="1" style="text;html=1;strokeColor=#38BDF8;fillColor=#0F172A;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=48;strokeWidth=2;" value="🚀" vertex="1">
+          <mxGeometry height="90" width="90" x="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="icon_astro" parent="1" style="text;html=1;strokeColor=#38BDF8;fillColor=#0F172A;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=48;strokeWidth=2;" value="👩‍🚀" vertex="1">
+          <mxGeometry height="90" width="90" x="1350" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="panel_1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0D152A;strokeColor=#38BDF8;strokeWidth=2;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="290" width="490" x="30" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="badge_1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0284C7;strokeColor=#7DD3FC;strokeWidth=2;fontColor=#FFFFFF;fontSize=18;" value="&lt;b&gt;1&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="36" x="45" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="header_1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 16px;&quot;&gt;TÍTULO Y GANCHO:&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 16px;&quot;&gt;¡Vuelo Ultra-Ligero!&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="415" x="90" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="text_1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" value="&lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Los materiales compuestos permiten misiones espaciales mucho más ambiciosas al reducir drásticamente el peso estructural.&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="150" width="270" x="45" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="sat_1" parent="1" style="text;html=1;strokeColor=#38BDF8;fillColor=#1E293B;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=64;" value="🛰️" vertex="1">
+          <mxGeometry height="180" width="160" x="330" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="panel_2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0D152A;strokeColor=#38BDF8;strokeWidth=2;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="290" width="520" x="540" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="badge_2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0284C7;strokeColor=#7DD3FC;strokeWidth=2;fontColor=#FFFFFF;fontSize=18;" value="&lt;b&gt;2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="36" x="555" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="header_2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 16px;&quot;&gt;EL ENIGMA:&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 16px;&quot;&gt;El Problema de la «Mochila de Piedras»&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="445" x="600" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_box_left" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#64748B;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="170" width="235" x="555" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_left_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" value="&lt;b&gt;&lt;font color=&quot;#CBD5E1&quot;&gt;METALES TRADICIONALES&lt;br&gt;(Pesados)&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="225" x="560" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_left_list" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font color=&quot;#E2E8F0&quot; style=&quot;font-size: 11px;&quot;&gt;• Baja energía&lt;br&gt;• Más masa = más consumo&lt;br&gt;• Menos carga útil&lt;br&gt;• Misiones limitadas&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="150" x="635" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_left_icon" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" value="🎒🪨" vertex="1">
+          <mxGeometry height="75" width="70" x="560" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_left_foot" parent="1" style="text;html=1;strokeColor=none;fillColor=#1E293B;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;&lt;font color=&quot;#94A3B8&quot; style=&quot;font-size: 11px;&quot;&gt;MOCHILA PESADA, MENOS ENERGÍA&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="24" width="215" x="565" y="348" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_box_right" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#172038;strokeColor=#F59E0B;strokeWidth=1.5;" value="" vertex="1">
+          <mxGeometry height="170" width="235" x="810" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_right_title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" value="&lt;b&gt;&lt;font color=&quot;#FBBF24&quot;&gt;MATERIALES COMPUESTOS&lt;br&gt;(Optimizados)&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="225" x="815" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_right_list" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 11px;&quot;&gt;• Alta energía&lt;br&gt;• Menos masa = más eficiencia&lt;br&gt;• Más carga útil y alcance&lt;br&gt;• Misiones ambiciosas&lt;/font&gt;" vertex="1">
+          <mxGeometry height="85" width="150" x="890" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_right_icon" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;" value="🎒⚡" vertex="1">
+          <mxGeometry height="75" width="70" x="815" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_right_foot" parent="1" style="text;html=1;strokeColor=none;fillColor=#292524;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" value="&lt;b&gt;&lt;font color=&quot;#FBBF24&quot; style=&quot;font-size: 11px;&quot;&gt;MOCHILA LIGERA, MÁS ENERGÍA&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="24" width="215" x="820" y="348" as="geometry" />
+        </mxCell>
+        <mxCell id="p2_bottom" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font color=&quot;#E2E8F0&quot; style=&quot;font-size: 12px;&quot;&gt;El dilema &lt;b&gt;&lt;font color=&quot;#38BDF8&quot;&gt;SWAP:&lt;/font&gt;&lt;/b&gt; Size (tamaño), Weight (peso), and Power (potencia) compiten. Reducir peso libera potencia y habilita el futuro.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="490" x="555" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="panel_3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0D152A;strokeColor=#38BDF8;strokeWidth=2;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="290" width="490" x="1080" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="badge_3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0284C7;strokeColor=#7DD3FC;strokeWidth=2;fontColor=#FFFFFF;fontSize=18;" value="&lt;b&gt;3&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="36" x="1095" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="header_3" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 16px;&quot;&gt;EL MAPA DEL TESORO:&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 16px;&quot;&gt;El Plan Maestro&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="415" x="1140" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_s1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#334155;verticalAlign=top;spacingTop=8;" value="&lt;b&gt;&lt;font color=&quot;#FBBF24&quot;&gt;① PASO 1&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Elegir los ingredientes&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🕸️🌿&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#CBD5E1&quot; style=&quot;font-size: 11px;&quot;&gt;Fibras de carbono y biomateriales avanzados.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="205" width="140" x="1095" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_s2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#334155;verticalAlign=top;spacingTop=8;" value="&lt;b&gt;&lt;font color=&quot;#FBBF24&quot;&gt;② PASO 2&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Diseño inteligente&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;📐💻&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#CBD5E1&quot; style=&quot;font-size: 11px;&quot;&gt;Modelado matemático y simulación para formas óptimas.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="205" width="140" x="1255" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="p3_s3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#334155;verticalAlign=top;spacingTop=8;" value="&lt;b&gt;&lt;font color=&quot;#FBBF24&quot;&gt;③ PASO 3&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;Construcción y prueba&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;🛰️📡&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#CBD5E1&quot; style=&quot;font-size: 11px;&quot;&gt;Fabricación avanzada y ensayos en condiciones extremas.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="205" width="140" x="1415" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="arr_3_1" edge="1" parent="1" style="endArrow=classic;html=1;strokeColor=#F59E0B;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1236" y="315" as="sourcePoint" />
+            <mxPoint x="1254" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arr_3_2" edge="1" parent="1" style="endArrow=classic;html=1;strokeColor=#F59E0B;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1396" y="315" as="sourcePoint" />
+            <mxPoint x="1414" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="panel_4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0D152A;strokeColor=#38BDF8;strokeWidth=2;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="295" width="760" x="30" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="badge_4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0284C7;strokeColor=#7DD3FC;strokeWidth=2;fontColor=#FFFFFF;fontSize=18;" value="&lt;b&gt;4&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="36" x="45" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="header_4" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 16px;&quot;&gt;EL LABORATORIO:&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 16px;&quot;&gt;Una Receta de Cocina Espacial&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="680" x="90" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="p4_box1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#38BDF8;verticalAlign=top;spacingTop=8;" value="&lt;b&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;COCINADO DE SUPER-ESTRUCTURAS&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;🧬&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#CBD5E1&quot; style=&quot;font-size: 11px;&quot;&gt;Fibras de carbono y resinas de ultra alto rendimiento se combinan para crear super-estructuras.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="165" width="220" x="45" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="p4_box2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#38BDF8;verticalAlign=top;spacingTop=8;" value="&lt;b&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;IMPRESIÓN MÁGICA 3D&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;🖨️&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#CBD5E1&quot; style=&quot;font-size: 11px;&quot;&gt;Diseños topológicos complejos que maximizan la rigidez y minimizan el peso.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="165" width="220" x="300" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="p4_box3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#F59E0B;verticalAlign=top;spacingTop=8;" value="&lt;b&gt;&lt;font color=&quot;#FFFFFF&quot;&gt;HORNO DE RESINA&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;🔥&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#CBD5E1&quot; style=&quot;font-size: 11px;&quot;&gt;Curado térmico preciso que activa la resistencia final y la estabilidad térmica.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="165" width="220" x="555" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="arr_4_1" edge="1" parent="1" style="endArrow=classic;html=1;strokeColor=#38BDF8;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="267" y="600" as="sourcePoint" />
+            <mxPoint x="298" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arr_4_2" edge="1" parent="1" style="endArrow=classic;html=1;strokeColor=#38BDF8;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="522" y="600" as="sourcePoint" />
+            <mxPoint x="553" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p4_footer" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1E293B;strokeColor=#F59E0B;strokeWidth=1.5;" value="&lt;b&gt;&lt;font color=&quot;#F59E0B&quot; style=&quot;font-size: 24px;&quot;&gt;⬇ 8% DE AHORRO DE MATERIAL&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 12px;&quot;&gt;Menos materia prima, menos residuos, más rendimiento.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="48" width="730" x="45" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="panel_5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0D152A;strokeColor=#38BDF8;strokeWidth=2;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="295" width="760" x="810" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="badge_5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0284C7;strokeColor=#7DD3FC;strokeWidth=2;fontColor=#FFFFFF;fontSize=18;" value="&lt;b&gt;5&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="36" x="825" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="header_5" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 16px;&quot;&gt;LOS DESCUBRIMIENTOS:&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 16px;&quot;&gt;¡Datos que Explotan la Mente!&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="680" x="870" y="475" as="geometry" />
+        </mxCell>
+        <mxCell id="p5_m1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#334155;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;⚖️&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 36px;&quot;&gt;-50%&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 14px;&quot;&gt;DE PESO&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#CBD5E1&quot; style=&quot;font-size: 11px;&quot;&gt;Reducción estructural drástica sin comprometer la resistencia.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="215" x="825" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="p5_m2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#334155;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;♾️&lt;/font&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#FBBF24&quot; style=&quot;font-size: 36px;&quot;&gt;+60%&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 14px;&quot;&gt;DE AUTONOMÍA&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#CBD5E1&quot; style=&quot;font-size: 11px;&quot;&gt;Más tiempo de misión, mayor alcance y más exploración posible.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="215" x="1055" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="p5_m3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1E293B;strokeColor=#F59E0B;strokeWidth=2;" value="&lt;b&gt;&lt;font color=&quot;#FBBF24&quot; style=&quot;font-size: 14px;&quot;&gt;⭐ REGLA DE ORO&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 22px;&quot;&gt;1% menos peso ≈ 1% más eficiencia&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#E2E8F0&quot; style=&quot;font-size: 11px;&quot;&gt;En cohetes y naves, cada gramo cuenta... y multiplica el éxito.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="270" x="1285" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="p5_footer" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font color=&quot;#94A3B8&quot; style=&quot;font-size: 12px;&quot;&gt;Menos peso = menos propelente = más ciencia, más distancia, más futuro.&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="730" x="825" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="panel_6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0D152A;strokeColor=#38BDF8;strokeWidth=2;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="295" width="840" x="30" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="badge_6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0284C7;strokeColor=#7DD3FC;strokeWidth=2;fontColor=#FFFFFF;fontSize=18;" value="&lt;b&gt;6&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="36" x="45" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="header_6" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 16px;&quot;&gt;LA GRAN VERDAD:&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 16px;&quot;&gt;¿Teníamos Razón?&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="760" x="90" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="table_6" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" value="&lt;table style=&quot;width:100%; border-collapse: collapse; color: #FFFFFF; font-size: 12px;&quot;&gt;&lt;tr style=&quot;background-color: #1E293B; color: #38BDF8;&quot;&gt;&lt;th style=&quot;padding: 6px; border: 1px solid #334155;&quot;&gt;MATERIAL&lt;/th&gt;&lt;th style=&quot;padding: 6px; border: 1px solid #334155;&quot;&gt;DENSIDAD (g/cm³)&lt;br&gt;MENOS ES MEJOR&lt;/th&gt;&lt;th style=&quot;padding: 6px; border: 1px solid #334155;&quot;&gt;RESISTENCIA (kN·m/kg)&lt;br&gt;MÁS ES MEJOR&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #334155;&quot;&gt;&lt;b&gt;Aluminio&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #334155; text-align:center;&quot;&gt;2.70&lt;/td&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #334155; text-align:center;&quot;&gt;100&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #334155;&quot;&gt;&lt;b&gt;Acero Aeroespacial&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #334155; text-align:center;&quot;&gt;7.85&lt;/td&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #334155; text-align:center;&quot;&gt;120&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #0F2942;&quot;&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #38BDF8;&quot;&gt;&lt;b&gt;Fibra de Carbono CFRP&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #38BDF8; text-align:center;&quot;&gt;&lt;b&gt;1.60&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #38BDF8; text-align:center; color:#FBBF24;&quot;&gt;&lt;b&gt;500&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;background-color: #0F2942;&quot;&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #38BDF8;&quot;&gt;&lt;b&gt;Híbrido Avanzado (CFRP+Bio)&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #38BDF8; text-align:center;&quot;&gt;&lt;b&gt;1.30&lt;/b&gt;&lt;/td&gt;&lt;td style=&quot;padding: 6px; border: 1px solid #38BDF8; text-align:center; color:#4ADE80;&quot;&gt;&lt;b&gt;650&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="220" width="440" x="45" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="mision_6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#334155;align=left;spacingLeft=12;fontSize=12;" value="&lt;b&gt;&lt;font color=&quot;#FBBF24&quot; style=&quot;font-size: 14px;&quot;&gt;MISIÓN: CUMPLIDA&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#4ADE80&quot;&gt;✔&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot;&gt;Estructuras más ligeras y resistentes&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#4ADE80&quot;&gt;✔&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot;&gt;Mayor eficiencia energética&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#4ADE80&quot;&gt;✔&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot;&gt;Más carga útil para ciencia e instrumentos&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#4ADE80&quot;&gt;✔&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot;&gt;Misiones más lejanas y ambiciosas&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;font color=&quot;#4ADE80&quot;&gt;✔&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot;&gt;Exploración sostenible del espacio&lt;/font&gt;" vertex="1">
+          <mxGeometry height="220" width="355" x="500" y="835" as="geometry" />
+        </mxCell>
+        <mxCell id="panel_7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0D152A;strokeColor=#38BDF8;strokeWidth=2;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="295" width="680" x="890" y="775" as="geometry" />
+        </mxCell>
+        <mxCell id="badge_7" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0284C7;strokeColor=#7DD3FC;strokeWidth=2;fontColor=#FFFFFF;fontSize=18;" value="&lt;b&gt;7&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="36" x="905" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="header_7" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 16px;&quot;&gt;EL SIGUIENTE NIVEL:&lt;/font&gt; &lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 16px;&quot;&gt;Tu Turno, Científico&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="600" x="950" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="p7_intro" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font color=&quot;#E2E8F0&quot; style=&quot;font-size: 12px;&quot;&gt;El futuro pertenece a los materiales inteligentes que se adaptan, sanan y se reinventan en el espacio.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="650" x="905" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="p7_item1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#334155;align=left;spacingLeft=12;" value="&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 13px;&quot;&gt;⬡ Materiales auto-reparables&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 12px;&quot;&gt;Nanotecnología que detecta daños y repara estructuras en órbita.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="650" x="905" y="868" as="geometry" />
+        </mxCell>
+        <mxCell id="p7_item2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#111C38;strokeColor=#334155;align=left;spacingLeft=12;" value="&lt;b&gt;&lt;font color=&quot;#38BDF8&quot; style=&quot;font-size: 13px;&quot;&gt;💠 Estructuras origami en el espacio&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 12px;&quot;&gt;Se despliegan como arte japonés para caber en el lanzamiento y expandirse en el vacío.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="55" width="650" x="905" y="932" as="geometry" />
+        </mxCell>
+        <mxCell id="p7_cta" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;&lt;font color=&quot;#FFFFFF&quot; style=&quot;font-size: 13px;&quot;&gt;La próxima generación de materiales ligeros hará posible lo imposible. &lt;font color=&quot;#FBBF24&quot;&gt;¿Estás listo para diseñar el futuro?&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="650" x="905" y="1000" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

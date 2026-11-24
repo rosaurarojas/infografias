@@ -1,0 +1,276 @@
+**(Modelo utilizado Gemini AI)**
+
+A partir de mi infografia por favor ayudame a crear/generar una plantilla (metapromtp), dame los items que necesito para caracterizar la plantilla en cuanto a: estilo, forma y distribucion de informacion. 
+
+
+/***resultado optenido***/
+
+Actúa como un diseñador experto en infografías científico-técnicas y de ingeniería. 
+Genera la estructura de contenido para una infografía basada en los siguientes parámetros:
+
+1. TEMA CENTRAL: [Inserta tu tema aquí]
+2. ESTILO VISUAL: 
+   - Paleta de colores minimalista y tecnológica (fondos claros, acentos en azul robótico y verde de validación).
+   - Estilo gráfico técnico, con diagramas modulares, líneas de tiempo y gráficos de rendimiento.
+3. FORMA Y JERARQUÍA:
+   - Dividir en 3 grandes bloques o columnas temáticas: (1) Contexto/Problema, (2) Solución/Metodología paso a paso, (3) Resultados, métricas e impacto.
+   - Incluir subtítulos en negrita y referencias a fuentes técnicas en cada sección.
+4. DISTRIBUCIÓN DE INFORMACIÓN (Layout de 3 columnas):
+   - Columna 1: Antecedentes, problema crítico y evolución histórica.
+   - Columna 2: Cuadrícula de 4 módulos explicativos del proceso técnico o arquitectura del sistema.
+   - Columna 3: Gráficos de datos, indicadores porcentuales destacados y tabla comparativa de métricas.
+
+
+///*CORREPCIONES PARA MEJORAR EL METAPROMPT*///
+
+*****Restricciones*****
+-Cuida la gramatica y la ortografia
+-no inventes informacion
+-que los graficos sean realistas
+-la informacion sacala de la fuente suministrada y de las bibliografias con la cual se creo la fuente suministrada.
+-no inventes palabras, usa el idioma español excepto en los nombres propios.
+
+*****OTROS PROMPTS MEJORADOS A PARTIR DEL ORIGINAL (OJO: AUN CON ERRORES ORTOGRAFICOS EN LA CREACION DE INFOGRAFIAS)
+
+METAPROMPT 3:
+Actúa como un diseñador experto en infografías científico-técnicas y de ingeniería, con rigurosa precisión en la redacción técnica en español. Genera la estructura de contenido para una infografía basada estrictamente en los siguientes parámetros y restricciones lingüísticas:
+
+1. TEMA CENTRAL: [Inserta tu tema aquí]
+
+2. ESTILO VISUAL: 
+   - Paleta de colores minimalista y tecnológica (fondos claros, acentos en azul robótico y verde de validación).
+   - Estilo gráfico técnico, con diagramas modulares, líneas de tiempo y gráficos de rendimiento.
+
+3. FORMA Y JERARQUÍA:
+   - Dividir en 3 grandes bloques o columnas temáticas: (1) Contexto/Problema, (2) Solución/Metodología paso a paso, (3) Resultados, métricas e impacto.
+   - Incluir subtítulos en negrita y referencias a fuentes técnicas reales y verificables en cada sección.
+
+4. DISTRIBUCIÓN DE INFORMACIÓN (Layout de 3 columnas):
+   - Columna 1: Antecedentes, problema crítico y evolución histórica.
+   - Columna 2: Cuadrícula de 4 módulos explicativos del proceso técnico o arquitectura del sistema.
+   - Columna 3: Gráficos de datos, indicadores porcentuales destacados y tabla comparativa de métricas.
+
+5. RESTRICCIONES ESTRICTAS DE LENGUAJE Y CALIDAD (OBLIGATORIO CUMPLIR):
+   - ORTOGRAFÍA Y GRAMÁTICA: Aplica estrictamente las normas de la Real Academia Española (RAE). Revisa tildes, puntuación, concordancia de género/número y sintaxis técnica.
+   - PROHIBICIÓN DE PALABRAS INVENTADAS O EXTRANJERISMOS INNECESARIOS: Utiliza exclusivamente vocabulario formal y técnico en idioma español. Evita calcos léxicos del inglés (anglicismos mal adaptados). Los únicos términos en otro idioma permitidos son nombres propios, normativas oficiales (ej. ISO, NASA) o denominaciones comerciales de componentes que no posean traducción oficial aceptada en la industria.
+   - VERACIDAD Y RIGOR: No inventes información, datos estadísticos, métricas ni referencias bibliográficas. Toda la información debe ser técnicamente coherente y basada en literatura de ingeniería real.
+   - REALISMO TÉCNICO: Los datos numéricos, porcentajes y tablas comparativas deben reflejar escenarios de ingeniería realistas y plausibles dentro de la disciplina del tema central.
+
+
+METAPROMPT 4:
+Actúa como un diseñador y redactor experto en infografías científico-técnicas y de ingeniería. Tu redacción en español debe ser impecable, profesional y libre de errores ortográficos, gramaticales, tipográficos o de sintaxis.
+
+Genera la estructura de contenido para una infografía basada estrictamente en los siguientes parámetros y reglas de rigor:
+
+1. TEMA CENTRAL: [Inserta tu tema aquí]
+
+2. ESTILO VISUAL Y DISEÑO:
+   - Paleta de colores minimalista y tecnológica (fondos claros, acentos en azul robótico y verde de validación).
+   - Estilo gráfico técnico, integrado con diagramas modulares, líneas de tiempo y gráficos de rendimiento.
+
+3. ESTRUCTURA Y JERARQUÍA TEMÁTICA:
+   - Organiza la información en 3 grandes bloques conceptuales ordenados de forma lógica: 
+     (1) Contexto, antecedentes y problemática crítica.
+     (2) Solución tecnológica, arquitectura del sistema y metodología paso a paso (organizada en una cuadrícula de 4 módulos explicativos).
+     (3) Resultados, métricas de impacto, indicadores porcentuales destacados y tabla comparativa de desempeño.
+   - Utiliza subtítulos claros en negrita.
+
+4. REGLAS RIGUROSAS DE LENGUAJE Y ORTOGRAFÍA (CUMPLIMIENTO OBLIGATORIO):
+   - REVISIÓN ORTOGRÁFICA Y GRAMATICAL ESTRICTA: Aplica minuciosamente las reglas de la Real Academia Española (RAE). Revisa tildes, puntuación, concordancia y tipografía. No utilices palabras mal escritas, letras faltantes, calcos incorrectos del inglés ni palabras inventadas o inexistentes en el idioma español.
+   - USO DEL ESPAÑOL TÉCNICO: Escribe 100% en idioma español formal. La única excepción autorizada para el uso de términos en otro idioma son los nombres propios, siglas oficiales (ej. NASA, ISO, IEEE) o marcas comerciales de componentes que carezcan de traducción oficial.
+
+5. CITA DE FUENTES, AUTORES Y SECCIONES DEL DOCUMENTO:
+   - TRAZABILIDAD DEL CONTENIDO: Para cada sección, concepto o dato numérico, debes indicar explícitamente la sección, capítulo, apartado o página exacta del documento original de donde se extrajo la información.
+   - AUTORES Y BIBLIOGRAFÍA COMPLETA: En las referencias técnicas de cada bloque, incluye siempre el nombre completo o apellidos de los autores, título de la publicación o documento, año de edición y la institución u organismo responsable. No inventes referencias ni autores.
+   - FIDELIDAD A LA FUENTE: La información, métricas y datos numéricos deben provenir estrictamente de la fuente suministrada y su bibliografía asociada. No alucines ni inventes datos que no estén respaldados.
+
+
+
+
+----codigo python con finalidad de editar las infografias----
+
+# -*- coding: utf-8 -*-
+"""Infografia_OIRA_Colab.ipynb
+
+Automatically generated by Colab.
+"""
+
+import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.patches as patches
+
+# Configuración inicial de la figura principal (lienzo de infografía)
+fig = plt.figure(figsize=(20, 11), facecolor='#f4f6f9')
+
+# Título principal de la infografía mejorado
+fig.suptitle(
+    'ENSAMBLAJE ROBÓTICO EN ÓRBITA (OIRA)\nOptimización de Eficiencia, Autonomía y Reducción de Riesgos en la Exploración Espacial Profunda',
+    fontsize=15, fontweight='bold', color='white', y=0.97,
+    bbox=dict(facecolor='#0F2042', alpha=1.0, edgecolor='none', pad=12)
+)
+
+# Creación de la cuadrícula principal de 3 columnas (dejando espacio arriba para el título)
+gs = fig.add_gridspec(2, 3, height_ratios=[0.62, 0.38], width_ratios=[1, 1.1, 0.9])
+gs.update(top=0.88, bottom=0.04, left=0.04, right=0.96, hspace=0.35, wspace=0.28)
+
+# ==========================================
+# COLUMNA 1: Contexto y Evolución Histórica
+# ==========================================
+ax1 = fig.add_subplot(gs[0, 0])
+ax1.axis('off')
+ax1.set_facecolor('#ffffff')
+
+# Fondo estético para la tarjeta (Uso de FancyBboxPatch corregido)
+ax1.add_patch(patches.FancyBboxPatch((0, 0), 1, 1, transform=ax1.transAxes, color='#ffffff', zorder=0, boxstyle="round,pad=0.03"))
+
+# Título de sección
+ax1.text(0.15, 0.93, 'Contexto e Historia', fontsize=12, fontweight='bold', color='#0F2042', va='center')
+
+# --- DIBUJAR ICONO: Satélite / Telescopio Espacial ---
+ax_icon1 = fig.add_axes([0.045, 0.81, 0.03, 0.04])
+ax_icon1.axis('off')
+ax_icon1.plot([0.1, 0.9], [0.5, 0.5], color='#4A90E2', lw=4) # Panel izquierdo
+ax_icon1.plot([0.3, 0.7], [0.3, 0.7], color='#2E8B57', lw=3) # Cuerpo central
+ax_icon1.add_patch(patches.Circle((0.5, 0.5), 0.15, color='#0F2042', zorder=3))
+ax_icon1.plot([0.5, 0.8], [0.5, 0.2], color='#E28743', lw=2) # Antena
+
+texto_col1 = (
+    "• El cuello de botella del lanzamiento terrestre:\n"
+    "  Los lanzadores imponen severas limitaciones de\n"
+    "  masa y volumen útil, impidiendo el despliegue\n"
+    "  directo de infraestructuras masivas de exploración\n"
+    "  profunda sin un ensamblaje robusto en órbita.\n\n"
+    "• Hitos Clave:\n"
+    "  - ETS-VII (1997): Demostración pionera de guiado\n"
+    "    autónomo con brazo robótico en órbita.\n"
+    "  - Canadarm2 (2001) y Dextre (2011): Soporte\n"
+    "    clave de ensamblaje en la Estación Espacial.\n"
+    "  - Misiones OIRA (2023-2025): Hito conceptual\n"
+    "    hacia la autonomía e inteligencia del sistema."
+)
+ax1.text(0.02, 0.82, texto_col1, fontsize=9.5, va='top', family='sans-serif', linespacing=1.35)
+
+
+# ==========================================
+# COLUMNA 2: Arquitectura del Sistema
+# ==========================================
+ax2 = fig.add_subplot(gs[0, 1])
+ax2.axis('off')
+ax2.set_facecolor('#ffffff')
+
+# Título de sección
+ax2.text(0.12, 0.93, 'Arquitectura del Sistema (4 Módulos)', fontsize=12, fontweight='bold', color='#0F2042', va='center')
+
+# --- MÓDULO 1: Percepción Local ---
+ax2.text(0.10, 0.83, "Módulo 1: Percepción Local", fontsize=10, fontweight='bold', color='#2E8B57')
+texto_m1 = "Captura el entorno con LIDAR, cámaras estéreo y sensores de Fuerza/Par."
+ax2.text(0.10, 0.78, texto_m1, fontsize=9, va='top')
+# Icono: Ojo de radar
+ax_ic2_1 = fig.add_axes([0.375, 0.81, 0.02, 0.03])
+ax_ic2_1.axis('off')
+ax_ic2_1.add_patch(patches.Circle((0.5, 0.5), 0.3, color='none', ec='#2E8B57', lw=1.5))
+ax_ic2_1.add_patch(patches.Circle((0.5, 0.5), 0.1, color='#2E8B57'))
+ax_ic2_1.plot([0.5, 0.8], [0.5, 0.8], color='#2E8B57', lw=1.5)
+
+# --- MÓDULO 2: Planificación Jerárquica ---
+ax2.text(0.10, 0.65, "Módulo 2: Planificación Jerárquica", fontsize=10, fontweight='bold', color='#E28743')
+texto_m2 = "Genera grafos de dependencia y optimiza trayectorias vía Algoritmos Genéticos."
+ax2.text(0.10, 0.60, texto_m2, fontsize=9, va='top')
+# Icono: Grafo jerárquico
+ax_ic2_2 = fig.add_axes([0.375, 0.71, 0.02, 0.03])
+ax_ic2_2.axis('off')
+ax_ic2_2.plot([0.5, 0.2], [0.8, 0.2], color='#E28743', lw=1.5)
+ax_ic2_2.plot([0.5, 0.8], [0.8, 0.2], color='#E28743', lw=1.5)
+ax_ic2_2.add_patch(patches.Circle((0.5, 0.8), 0.15, color='#E28743'))
+ax_ic2_2.add_patch(patches.Circle((0.2, 0.2), 0.15, color='#E28743'))
+ax_ic2_2.add_patch(patches.Circle((0.8, 0.2), 0.15, color='#E28743'))
+
+# --- MÓDULO 3: Control Híbrido ---
+ax2.text(0.10, 0.47, "Módulo 3: Control Híbrido Posición/Fuerza", fontsize=10, fontweight='bold', color='#1B365D')
+texto_m3 = "Campos de potencial artificial que garantizan contacto suave y sin colisiones."
+ax2.text(0.10, 0.42, texto_m3, fontsize=9, va='top')
+# Icono: Brazo robótico mecánico
+ax_ic2_3 = fig.add_axes([0.375, 0.61, 0.02, 0.03])
+ax_ic2_3.axis('off')
+ax_ic2_3.plot([0.2, 0.5, 0.8], [0.2, 0.7, 0.3], color='#1B365D', lw=3, solid_capstyle='round')
+ax_ic2_3.add_patch(patches.Circle((0.5, 0.7), 0.12, color='#E28743'))
+
+# --- MÓDULO 4: Gemelo Digital Bidireccional ---
+ax2.text(0.10, 0.29, "Módulo 4: Gemelo Digital Bidireccional", fontsize=10, fontweight='bold', color='#4A90E2')
+texto_m4 = "Sincronización en tiempo real para predecir dinámicas y reevaluar riesgos."
+ax2.text(0.10, 0.24, texto_m4, fontsize=9, va='top')
+# Icono: Dualidad / Sincronización
+ax_ic2_4 = fig.add_axes([0.375, 0.51, 0.02, 0.03])
+ax_ic2_4.axis('off')
+ax_ic2_4.add_patch(patches.Rectangle((0.1, 0.3), 0.3, 0.4, color='#4A90E2', alpha=0.7))
+ax_ic2_4.add_patch(patches.Rectangle((0.6, 0.3), 0.3, 0.4, color='#1B365D', alpha=0.7))
+ax_ic2_4.plot([0.4, 0.6], [0.5, 0.5], color='black', linestyle=':', lw=1.5)
+
+
+# ==========================================
+# COLUMNA 3: Resultados y Métricas
+# ==========================================
+gs_col3 = gs[0, 2].subgridspec(2, 1, hspace=0.35)
+
+# Gráfico de barras 1: Tiempo de Ensamblaje
+ax3_1 = fig.add_subplot(gs_col3[0])
+categorias_tiempo = ['1 Brazo\n(Tradicional)', '2 Brazos\n(OIRA)']
+tiempos = [1040, 920]
+barras1 = ax3_1.bar(categorias_tiempo, tiempos, color=['#CD5C5C', '#2E8B57'], width=0.45)
+ax3_1.set_title('Tiempo de Ensamblaje (Panel Solar)', fontsize=10, fontweight='bold', color='#0F2042', pad=8)
+ax3_1.set_ylabel('Segundos (s)', fontsize=8.5)
+ax3_1.set_ylim(0, 1250)
+ax3_1.tick_params(axis='both', labelsize=8)
+ax3_1.grid(axis='y', linestyle='--', alpha=0.5)
+
+for barra in barras1:
+    yval = barra.get_height()
+    ax3_1.text(barra.get_x() + barra.get_width()/2.0, yval + 35, f'{yval} s', ha='center', va='bottom', fontsize=9, fontweight='bold', color='#2C3E50')
+
+# Gráfico de barras 2: Consumo Energético
+ax3_2 = fig.add_subplot(gs_col3[1])
+categorias_energia = ['1 Brazo\n(Tradicional)', '2 Brazos\n(OIRA)']
+energia = [215, 187]
+barras2 = ax3_2.bar(categorias_energia, energia, color=['#CD5C5C', '#2E8B57'], width=0.45)
+ax3_2.set_title('Consumo Energético Estimado', fontsize=10, fontweight='bold', color='#0F2042', pad=8)
+ax3_2.set_ylabel('Kilojulios (kJ)', fontsize=8.5)
+ax3_2.set_ylim(0, 260)
+ax3_2.tick_params(axis='both', labelsize=8)
+ax3_2.grid(axis='y', linestyle='--', alpha=0.5)
+
+for barra in barras2:
+    yval = barra.get_height()
+    ax3_2.text(barra.get_x() + barra.get_width()/2.0, yval + 8, f'{yval} kJ', ha='center', va='bottom', fontsize=9, fontweight='bold', color='#2C3E50')
+
+
+# ==========================================
+# SECCIÓN INFERIOR: Tabla Comparativa
+# ==========================================
+ax_tabla = fig.add_subplot(gs[1, :])
+ax_tabla.axis('off')
+ax_tabla.set_title('Evaluación de Desempeño por Tipo de Misión', fontsize=11, fontweight='bold', color='#0F2042', pad=15)
+
+columnas_tabla = ['Caso de Estudio / Configuración', 'Tiempo de Ensamblaje', 'Precisión Conexión (mm)', 'Tasa de Éxito (%)', 'Consumo Energía (kJ)']
+datos_tabla = [
+    ['Panel Solar (1 brazo - Tradicional)', '1.840 s', '4.2 mm', '78 %', '215 kJ'],
+    ['Panel Solar (2 brazos - Propuesto OIRA)', '920 s (Ahorro 50%)', '2.1 mm', '94 %', '187 kJ'],
+    ['Armazón de Telescopio (25 m)', '770 s (vs 1.430 s)', '4.8 mm', '82 %', '450 kJ'],
+    ['Estación de Servicio Orbital', '500 s (vs 1.240 s)', '5.8 mm', '71 %', '672 kJ']
+]
+
+tabla = ax_tabla.table(cellText=datos_tabla, colLabels=columnas_tabla, loc='center', cellLoc='center')
+tabla.auto_set_font_size(False)
+tabla.set_fontsize(9.5)
+tabla.scale(0.98, 1.6)
+
+for i, key in enumerate(tabla.get_celld().keys()):
+    cell = tabla.get_celld()[key]
+    if key[0] == 0:
+        cell.set_facecolor('#0F2042')
+        cell.set_text_props(color='white', fontweight='bold')
+    else:
+        cell.set_facecolor('#ffffff' if key[0] % 2 == 1 else '#f7f9fb')
+
+# Guardar imagen en alta resolución descargable desde Colab
+plt.savefig('infografia_oira_corregida.png', dpi=300, bbox_inches='tight')
+plt.show()
